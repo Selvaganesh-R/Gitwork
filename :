@@ -1,26 +1,12 @@
 First
 Second
 <<<<<<< HEAD
-3rd
-4th
-5th
-6th
-7th
-8th
-||||||| 381876d
-=======
-<<<<<<< HEAD
->>>>>>> dev
 Third
 Four
 Fifth
 Sixth
 Seventh
 Eight
-<<<<<<< HEAD
-
-||||||| 381876d
-=======
 ||||||| parent of f81412f (Commit from master)
 =======
 3rd
@@ -30,4 +16,3 @@ Eight
 7th
 8th
 >>>>>>> f81412f (Commit from master)
->>>>>>> dev
